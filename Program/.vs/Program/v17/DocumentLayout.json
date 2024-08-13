@@ -1,16 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B65E0C2-0BB1-4765-8602-48F9A8FB8497}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{88465F30-FDDE-43A1-9A7C-9F7C3B21DAD4}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5352C9DD-D076-4454-B6D8-8847024AA8AF}|..\\Class1th (Printf)\\Class1th (Printf).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,29 +23,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwGgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-13T05:40:29.084Z",
+              "WhenOpened": "2024-08-13T11:05:13.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-13T05:40:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th (Printf)\\Source.c",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c",
-              "RelativeToolTip": "..\\..\\..\\..\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c",
+              "RelativeToolTip": "..\\Class1th (Printf)\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-09T11:11:47.607Z"
@@ -51,11 +66,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-08T11:23:36.186Z",
               "EditorCaption": ""
