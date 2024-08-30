@@ -66,9 +66,8 @@ int main()
 
 	struct Node node1 = { 10, NULL };
 	struct Node node2 = { 20, NULL };
-	struct Node node3 = { 30, NULL };
-	
-	int * currentNode;
+	struct Node node3 = {30, NULL};
+	struct Node * currentNode[3] = { &node1, &node2, &node3};
 
 	node1.next = &node2;
 	node2.next = &node3;
@@ -76,10 +75,9 @@ int main()
 
 	for (int i = 0; i < 3; i++)
 	{
-		currentNode = malloc(sizeof(struct Node));
-	    printf("node1.data = %d\n", node1.data);
+		    printf("node%d.data = %d\n", i + 1, currentNode[i + 1]->data);
+		    currentNode[i + 1]->next = &currentNode[i + 2]->next;
 	}
-
 
 #pragma endregion
 
