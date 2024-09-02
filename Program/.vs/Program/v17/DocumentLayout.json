@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B65E0C2-0BB1-4765-8602-48F9A8FB8497}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-30T12:22:58.267Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,9 +24,9 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAABgAAAAAAAAAAAAUwE8AAAASAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-28T12:37:07.948Z",
+              "WhenOpened": "2024-09-02T11:22:24.169Z",
               "EditorCaption": ""
             }
           ]
