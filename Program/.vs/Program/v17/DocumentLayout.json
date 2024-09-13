@@ -5,6 +5,15 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD32328-B01E-46E4-952D-1C5D75A044FC}|..\\Class20th (Double Buffering)\\Class20th (Double Buffering).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (Double Buffering)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA89FF-BFC3-4D61-8E37-6AF08D3061BC}|..\\Class14th (Struct)\\Class14th (Struct).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Soruce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}|..\\Class20th (GetAsyncKeyState)\\Class20th (GetAsyncKeyState).vcxproj|C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +23,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (Double Buffering)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class20th (Double Buffering)\\Source.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (Double Buffering)\\Source.c",
+              "RelativeToolTip": "..\\Class20th (Double Buffering)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T12:23:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class20th (GetAsyncKeyState)\\Source.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c",
+              "RelativeToolTip": "..\\Class20th (GetAsyncKeyState)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T12:23:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Soruce.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Soruce.c",
+              "RelativeDocumentMoniker": "..\\Class14th (Struct)\\Soruce.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Soruce.c",
+              "RelativeToolTip": "..\\Class14th (Struct)\\Soruce.c",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T12:22:05.986Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +72,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowHUAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-11T12:26:06.61Z",
               "EditorCaption": ""

@@ -41,7 +41,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class17th (Dangling Pointer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class18th (Double Pointer)", "..\Class18th (Double Pointer)\Class18th (Double Pointer).vcxproj", "{75523F52-1CAE-4E2B-8C93-11F193CD3592}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class20th (GetAsyncKeyState)", "..\Class20th (GetAsyncKeyState)\Class20th (GetAsyncKeyState).vcxproj", "{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class19th (GetAsyncKeyState)", "..\Class20th (GetAsyncKeyState)\Class20th (GetAsyncKeyState).vcxproj", "{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class20th (Double Buffering)", "..\Class20th (Double Buffering)\Class20th (Double Buffering).vcxproj", "{EBD32328-B01E-46E4-952D-1C5D75A044FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -211,6 +213,14 @@ Global
 		{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}.Release|x64.Build.0 = Release|x64
 		{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}.Release|x86.ActiveCfg = Release|Win32
 		{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}.Release|x86.Build.0 = Release|Win32
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Debug|x64.ActiveCfg = Debug|x64
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Debug|x64.Build.0 = Debug|x64
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Debug|x86.Build.0 = Debug|Win32
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Release|x64.ActiveCfg = Release|x64
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Release|x64.Build.0 = Release|x64
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Release|x86.ActiveCfg = Release|Win32
+		{EBD32328-B01E-46E4-952D-1C5D75A044FC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
