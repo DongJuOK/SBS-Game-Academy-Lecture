@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6AD4695-2B7D-4B92-8D35-591F9D0DCBE6}|..\\Class20th (GetAsyncKeyState)\\Class20th (GetAsyncKeyState).vcxproj|C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB3D9312-0859-45CF-9043-7D65139BEBBD}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,24 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class20th (GetAsyncKeyState)\\Source.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Class20th (GetAsyncKeyState)\\Source.c",
-              "RelativeToolTip": "..\\Class20th (GetAsyncKeyState)\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-16T12:57:28.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-11T12:26:06.61Z",
               "EditorCaption": ""
